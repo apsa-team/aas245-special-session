@@ -1,5 +1,7 @@
 # aas245-special-session
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/14861704.svg)](https://zenodo.org/badge/lastestdoi/14861704)
+
 In this DOI-tracked repository, we share slides from the Special Session we hosted at the 245th AAS.  In these slides, we share preliminary results from the Astronomy Poverty Survey.  
 
 ### &mdash; citing this work
